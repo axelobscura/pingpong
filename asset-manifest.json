@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pingpong/static/css/main.d1b05096.chunk.css",
+    "main.js": "/pingpong/static/js/main.9d4dc0e9.chunk.js",
+    "main.js.map": "/pingpong/static/js/main.9d4dc0e9.chunk.js.map",
+    "runtime-main.js": "/pingpong/static/js/runtime-main.5de3e6c7.js",
+    "runtime-main.js.map": "/pingpong/static/js/runtime-main.5de3e6c7.js.map",
+    "static/js/2.bb741e0d.chunk.js": "/pingpong/static/js/2.bb741e0d.chunk.js",
+    "static/js/2.bb741e0d.chunk.js.map": "/pingpong/static/js/2.bb741e0d.chunk.js.map",
+    "index.html": "/pingpong/index.html",
+    "precache-manifest.3ac47637ee406d9b650328aa598725f6.js": "/pingpong/precache-manifest.3ac47637ee406d9b650328aa598725f6.js",
+    "service-worker.js": "/pingpong/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/pingpong/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bb741e0d.chunk.js.LICENSE": "/pingpong/static/js/2.bb741e0d.chunk.js.LICENSE",
+    "static/media/logo.svg": "/pingpong/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5de3e6c7.js",
+    "static/js/2.bb741e0d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9d4dc0e9.chunk.js"
+  ]
+}
