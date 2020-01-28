@@ -8,6 +8,9 @@ const Home = () => {
     <div className="App">
       <div className="App-header">
         <img src={logo} alt="Ping Poing" title="Ping Poing" />
+        <div>
+          <h2 className="slogan">La Empresa Lider del Entretenimiento</h2>
+        </div>
         <div className="lpropuesta">
           <Link to="/propuesta-uno"><i className="lni-arrow-right-circle"></i> PROPUESTA UNO</Link>
           <Link to="/propuesta-dos"><i className="lni-arrow-right-circle"></i> PROPUESTA DOS</Link>

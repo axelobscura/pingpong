@@ -1,0 +1,15 @@
+.propuestaUno {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background: rgb(138,236,237);
+  background: -moz-radial-gradient(circle, rgba(138,236,237,1) 0%, rgba(19,177,189,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(138,236,237,1) 0%, rgba(19,177,189,1) 100%);
+  background: radial-gradient(circle, rgba(138,236,237,1) 0%, rgba(19,177,189,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#8aeced",endColorstr="#13b1bd",GradientType=1);
+  padding: 1em;
+}
