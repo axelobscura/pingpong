@@ -1,0 +1,49 @@
+.propuestaUno {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background: rgb(138,236,237);
+  background: -moz-radial-gradient(circle, rgba(138,236,237,1) 0%, rgba(19,177,189,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(138,236,237,1) 0%, rgba(19,177,189,1) 100%);
+  background: radial-gradient(circle, rgba(138,236,237,1) 0%, rgba(19,177,189,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#8aeced",endColorstr="#13b1bd",GradientType=1);
+  padding: 1em;
+}
+
+.cls-4 {
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes example {
+  0%   { fill: #0e899e; }
+  33%  { fill: #99dce8; }
+  50%  { fill: #03262d; }
+  100% { fill: #0e899e; }
+}
+@-moz-keyframes example {
+  0%   { fill: #0e899e; }
+  33%  { fill: #99dce8; }
+  50%  { fill: #03262d; }
+  100% { fill: #0e899e; }
+}
+@-o-keyframes example {
+  0%   { fill: #0e899e; }
+  33%  { fill: #99dce8; }
+  50%  { fill: #03262d; }
+  100% { fill: #0e899e; }
+}
+@keyframes example {
+  0%   { fill: #0e899e; }
+  33%  { fill: #99dce8; }
+  50%  { fill: #03262d; }
+  100% { fill: #0e899e; }
+}
